@@ -1,0 +1,5 @@
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BIELibrary\bin\Debug\BIELibrary.dll
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BIELibrary\bin\Debug\BIELibrary.pdb
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BIELibrary\obj\Debug\BIELibrary.dll
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BIELibrary\obj\Debug\BIELibrary.pdb
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BIELibrary\obj\Debug\BIELibrary.csprojResolveAssemblyReference.cache

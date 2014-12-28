@@ -1,0 +1,13 @@
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.csprojResolveAssemblyReference.cache
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.Dashboard.resources
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.Properties.Resources.resources
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.csproj.GenerateResource.Cache
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\bin\Debug\BuildItEcoScheduler.exe
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\bin\Debug\BuildItEcoScheduler.pdb
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\bin\Debug\BIELibrary.dll
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\bin\Debug\BIELibrary.pdb
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.exe
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.pdb
+C:\Users\yuki\Documents\Visual Studio 2010\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.EventDetails.resources
+C:\Users\yuki\Documents\Visual Studio 2013\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.exe
+C:\Users\yuki\Documents\Visual Studio 2013\Projects\BuildItEcoScheduler\BuildItEcoScheduler\obj\x86\Debug\BuildItEcoScheduler.pdb
